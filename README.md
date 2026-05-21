@@ -19,10 +19,9 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Agent SDK" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/systemd-30638E?style=for-the-badge&logo=systemd&logoColor=white" alt="systemd" />
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -38,6 +37,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Operator dashboards &amp; GNOME desktop tooling</td>
+      <td align="center"><a href="https://github.com/Klarum-Software/glance"><img src="https://img.shields.io/github/stars/Klarum-Software/glance?style=flat-square&label=glance&color=2ea043&logo=github&logoColor=white" alt="glance" /></a></td>
+      <td align="center">&mdash;</td>
+    </tr>
     <tr>
       <td>Agentic orchestration &amp; developer tooling</td>
       <td align="center">&mdash;</td>
