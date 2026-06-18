@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=f5f1e8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=f5f1e8)
 ![Rust](https://img.shields.io/badge/Rust-1a1a1a?style=flat-square&logo=rust&logoColor=f5f1e8)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnubash&logoColor=f5f1e8)
 
 ### Frameworks &amp; tooling
 
