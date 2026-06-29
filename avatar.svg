@@ -1,0 +1,65 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Noah Hyden avatar — azulejo-style radial glyph">
+  <defs>
+    <!-- almond / leaf petal pointing up from center -->
+    <path id="petal" d="M256 96 C300 150 300 206 256 240 C212 206 212 150 256 96 Z"/>
+    <!-- slim secondary spike -->
+    <path id="spike" d="M256 132 C268 168 268 196 256 214 C244 196 244 168 256 132 Z"/>
+    <!-- central quatrefoil lobe pointing up -->
+    <path id="lobe" d="M256 200 C238 200 226 214 226 232 C226 250 240 256 256 256 C272 256 286 250 286 232 C286 214 274 200 256 200 Z"/>
+  </defs>
+
+  <!-- ground -->
+  <rect width="512" height="512" fill="#f5f1e8"/>
+
+  <!-- outer rings -->
+  <circle cx="256" cy="256" r="246" fill="none" stroke="#1d3fa0" stroke-width="4"/>
+  <circle cx="256" cy="256" r="234" fill="none" stroke="#1d3fa0" stroke-width="8"/>
+
+  <!-- 8 large petals -->
+  <g fill="#1d3fa0">
+    <use href="#petal"/>
+    <use href="#petal" transform="rotate(45 256 256)"/>
+    <use href="#petal" transform="rotate(90 256 256)"/>
+    <use href="#petal" transform="rotate(135 256 256)"/>
+    <use href="#petal" transform="rotate(180 256 256)"/>
+    <use href="#petal" transform="rotate(225 256 256)"/>
+    <use href="#petal" transform="rotate(270 256 256)"/>
+    <use href="#petal" transform="rotate(315 256 256)"/>
+  </g>
+
+  <!-- 8 secondary spikes, offset 22.5deg -->
+  <g fill="#1d3fa0">
+    <use href="#spike" transform="rotate(22.5 256 256)"/>
+    <use href="#spike" transform="rotate(67.5 256 256)"/>
+    <use href="#spike" transform="rotate(112.5 256 256)"/>
+    <use href="#spike" transform="rotate(157.5 256 256)"/>
+    <use href="#spike" transform="rotate(202.5 256 256)"/>
+    <use href="#spike" transform="rotate(247.5 256 256)"/>
+    <use href="#spike" transform="rotate(292.5 256 256)"/>
+    <use href="#spike" transform="rotate(337.5 256 256)"/>
+  </g>
+
+  <!-- petal tip dots -->
+  <g fill="#1d3fa0">
+    <circle cx="256" cy="84" r="9"/>
+    <circle cx="256" cy="84" r="9" transform="rotate(45 256 256)"/>
+    <circle cx="256" cy="84" r="9" transform="rotate(90 256 256)"/>
+    <circle cx="256" cy="84" r="9" transform="rotate(135 256 256)"/>
+    <circle cx="256" cy="84" r="9" transform="rotate(180 256 256)"/>
+    <circle cx="256" cy="84" r="9" transform="rotate(225 256 256)"/>
+    <circle cx="256" cy="84" r="9" transform="rotate(270 256 256)"/>
+    <circle cx="256" cy="84" r="9" transform="rotate(315 256 256)"/>
+  </g>
+
+  <!-- central quatrefoil -->
+  <g fill="#1d3fa0">
+    <use href="#lobe"/>
+    <use href="#lobe" transform="rotate(90 256 256)"/>
+    <use href="#lobe" transform="rotate(180 256 256)"/>
+    <use href="#lobe" transform="rotate(270 256 256)"/>
+  </g>
+  <circle cx="256" cy="256" r="34" fill="#1d3fa0"/>
+  <circle cx="256" cy="256" r="22" fill="#f5f1e8"/>
+  <!-- Klarum red center -->
+  <circle cx="256" cy="256" r="10" fill="#e5483a"/>
+</svg>
