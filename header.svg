@@ -1,6 +1,6 @@
 <svg width="880" height="160" viewBox="0 0 880 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Noah Hyden — full-stack developer. Klarum, Stockholm.">
-  <rect x="0.5" y="0.5" width="879" height="159" rx="16" fill="#f5f1e8" stroke="#d9d3c2"/>
-  <text x="56" y="82" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="50" fill="#1a1a1a">Noah Hyden</text>
-  <rect x="58" y="102" width="56" height="4" rx="2" fill="#e5483a"/>
-  <text x="56" y="134" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#8a8576" letter-spacing="0.5">Full-stack developer&#160;&#160;·&#160;&#160;Klarum&#160;&#160;·&#160;&#160;Stockholm</text>
+  <rect x="0.5" y="0.5" width="879" height="159" rx="16" fill="#E5E4DB" stroke="#CCC9BB"/>
+  <text x="56" y="82" font-family="Spectral, Georgia, 'Times New Roman', serif" font-weight="500" font-size="49" fill="#171E1A">Noah Hyden</text>
+  <rect x="58" y="102" width="56" height="4" rx="2" fill="#801818"/>
+  <text x="56" y="134" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#716F65" letter-spacing="0.5">Full-stack developer&#160;&#160;·&#160;&#160;Klarum&#160;&#160;·&#160;&#160;Stockholm</text>
 </svg>
