@@ -1,29 +1,26 @@
-<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Noah Hyden avatar — quatrefoil glyph">
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Noah Hyden avatar — Gothic quatrefoil tracery">
   <!-- ground -->
   <rect width="512" height="512" fill="#E5E4DB"/>
 
-  <!-- outer rings -->
-  <circle cx="256" cy="256" r="246" fill="none" stroke="#3B5669" stroke-width="4"/>
-  <circle cx="256" cy="256" r="234" fill="none" stroke="#3B5669" stroke-width="8"/>
-
-  <!-- diagonal accent dots (sit in the ground pockets, never touch the green) -->
-  <g fill="#3B5669">
-    <circle cx="256" cy="98" r="11" transform="rotate(45 256 256)"/>
-    <circle cx="256" cy="98" r="11" transform="rotate(135 256 256)"/>
-    <circle cx="256" cy="98" r="11" transform="rotate(225 256 256)"/>
-    <circle cx="256" cy="98" r="11" transform="rotate(315 256 256)"/>
+  <!-- medallion frame -->
+  <g fill="none" stroke="#3B5669">
+    <circle cx="256" cy="256" r="240" stroke-width="2"/>
+    <circle cx="256" cy="256" r="230" stroke-width="6"/>
   </g>
 
-  <!-- quatrefoil body: four overlapping circles -->
-  <g fill="#3B5B47">
-    <circle cx="256" cy="164" r="92"/>
-    <circle cx="256" cy="348" r="92"/>
-    <circle cx="164" cy="256" r="92"/>
-    <circle cx="348" cy="256" r="92"/>
+  <!-- quatrefoil tracery -->
+  <g fill="none" stroke="#3B5B47" stroke-width="5" stroke-linejoin="round">
+    <!-- four overlapping foils -->
+    <circle cx="256" cy="161" r="95"/>
+    <circle cx="351" cy="256" r="95"/>
+    <circle cx="256" cy="351" r="95"/>
+    <circle cx="161" cy="256" r="95"/>
+    <!-- inscribed square, vertices on the foil centers -->
+    <rect x="188.8" y="188.8" width="134.4" height="134.4" transform="rotate(45 256 256)"/>
+    <!-- center ring -->
+    <circle cx="256" cy="256" r="24"/>
   </g>
 
-  <!-- center medallion: ground disc, ocean ring, faluröd dot -->
-  <circle cx="256" cy="256" r="36" fill="#E5E4DB"/>
-  <circle cx="256" cy="256" r="24" fill="none" stroke="#3B5669" stroke-width="4"/>
-  <circle cx="256" cy="256" r="13" fill="#801818"/>
+  <!-- faluröd center -->
+  <circle cx="256" cy="256" r="10" fill="#801818"/>
 </svg>
