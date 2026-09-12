@@ -1,4 +1,4 @@
-<img src="./header.svg" alt="Noah Hyden — full-stack developer. Klarum, Stockholm." width="720">
+<img src="./header.svg" alt="Noah Hyden. Klarum, Stockholm." width="720">
 
 ### Languages
 
@@ -14,7 +14,5 @@
 ![React](https://img.shields.io/badge/React-171E1A?style=flat-square&logo=react&logoColor=E5E4DB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-171E1A?style=flat-square&logo=tailwindcss&logoColor=E5E4DB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171E1A?style=flat-square&logo=postgresql&logoColor=E5E4DB)
-![Linux](https://img.shields.io/badge/Linux-171E1A?style=flat-square&logo=linux&logoColor=E5E4DB)
-![Git](https://img.shields.io/badge/Git-171E1A?style=flat-square&logo=git&logoColor=E5E4DB)
 
 ###### [klarum.com](https://www.klarum.com) &nbsp;·&nbsp; [noah@klarum.com](mailto:noah@klarum.com)
