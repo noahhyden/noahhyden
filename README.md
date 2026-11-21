@@ -15,4 +15,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-171E1A?style=flat-square&logo=tailwindcss&logoColor=E5E4DB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171E1A?style=flat-square&logo=postgresql&logoColor=E5E4DB)
 
-###### [klarum.com](https://www.klarum.com) &nbsp;·&nbsp; [noah@klarum.com](mailto:noah@klarum.com)
+###### [klarum.com](https://www.klarum.com) &nbsp;·&nbsp; [n.hyden@klarum.com](mailto:n.hyden@klarum.com)
